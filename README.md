@@ -1,10 +1,12 @@
 [![MasterHead](https://4.bp.blogspot.com/-6vGvy4vCcvE/Xdcwnaf7XzI/AAAAAAAANZM/Io2mm8SXjmUVCo60byOn-XpLUpn54nizACLcBGAsYHQ/s1600/image1.gif)](https://rishavchanda.io)
 
-<h1 align="center">Hi 👋, I'm Bernadette Lee</h1>
+<h1 align="center">Hi, I'm Bernadette 👋</h1>
 <h3 align="center">A passionate computer science student</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **WebGl Animation**
+- 🔭 I’m currently learning about **Computer Science** in USM
+- 🌱 I’m currently majoring in **Intelligent Computing**
+- 📝 I’m currently working on **WebGl Animation**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

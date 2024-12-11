@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Bernadette Lee👋</h1>
 <h3 align="center">A passionate computer science student</h3>
-<img align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="float: right; width: 100%; max-width: 400px; height: auto;">
+<img align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="float: right; width: 100%; max-width: 400px; height: 200px; object-fit: contain;">
 
 - 🔭 I’m currently learning about **Computer Science** in USM
 - 🌱 I’m currently majoring in **Intelligent Computing**
